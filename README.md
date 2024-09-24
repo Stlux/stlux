@@ -1,4 +1,4 @@
-# 🥷 Lykholietov Kyrylo  |  💻 Frontend WEB Developer |  🕸️ My Website:
+# 🥷 L. Kyrylo  |  💻 Frontend WEB Developer |  🕸️ My Website:
 <p>There is a lot more information about me and my works as a freelancer 🔥</p>
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=Check&nbsp;My&nbsp;Website)](https://lykholietov.vercel.app/)
